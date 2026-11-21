@@ -1,2 +1,2 @@
 # boomer-c
-Tsoding's boomer application rewritten in C
+This is Tsoding's boomer application completely rewritten in C!
